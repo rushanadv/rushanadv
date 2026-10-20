@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="246" viewBox="0 0 490 246" role="img">
+<style>text{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px}.k{fill:#39d353;font-weight:600}.v{fill:#c9d1d9}.t{fill:#58a6ff;font-size:14px;font-weight:700}.r{opacity:0;animation:in .4s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:none}}</style>
+<rect x="1" y="1" width="488" height="244" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text class="t" x="22" y="38">rushanadv@github</text>
+<line x1="22" y1="48" x2="468" y2="48" stroke="#30363d"/>
+<g class="r" style="animation-delay:0.25s"><text class="k" x="22" y="72">Now</text><text class="v" x="114" y="72">Student / Developer</text></g>
+<g class="r" style="animation-delay:0.34s"><text class="k" x="22" y="98">Prev</text><text class="v" x="114" y="98">Add your previous role here</text></g>
+<g class="r" style="animation-delay:0.43s"><text class="k" x="22" y="124">Stack</text><text class="v" x="114" y="124">Python &#183; JavaScript &#183; React</text></g>
+<g class="r" style="animation-delay:0.52s"><text class="k" x="22" y="150">Writing</text><text class="v" x="114" y="150">yourblog.dev</text></g>
+<g class="r" style="animation-delay:0.61s"><text class="k" x="22" y="176">Highlight</text><text class="v" x="114" y="176">Something you shipped</text></g>
+<g class="r" style="animation-delay:0.7s"><text class="k" x="22" y="202">Reach</text><text class="v" x="114" y="202">you@example.com</text></g>
+</svg>

@@ -1,0 +1,6 @@
+-r requirements.txt
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
