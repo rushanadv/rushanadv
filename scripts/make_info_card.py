@@ -5,12 +5,8 @@ from pathlib import Path
 
 USER = "rushanadv"
 ROWS = [
-    ("Now",       "Student / Developer"),
-    ("Prev",      "Add your previous role here"),
-    ("Stack",     "Python &#183; JavaScript &#183; React"),
-    ("Writing",   "yourblog.dev"),
-    ("Highlight", "Something you shipped"),
-    ("Reach",     "you@example.com"),
+    ("Now",   "Student / Developer"),
+    ("Stack", "Python &#183; JavaScript &#183; React"),
 ]
 
 KEY, VAL, ACCENT, BORDER = "#39d353", "#c9d1d9", "#58a6ff", "#30363d"
