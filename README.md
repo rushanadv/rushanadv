@@ -12,5 +12,9 @@
     <td valign="top"><img src="./info-card.svg" width="490" alt="" /></td>
   </tr>
 </table>
+<br><br>
+
+<h3><code>rushanadv@github ~ $ ls ./badges</code></h3>
+<a href="https://hub.xerj.org/contributors/rushanadv"><img src="https://hub.xerj.org/contributors/rushanadv/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
 
 </div>
